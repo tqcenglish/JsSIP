@@ -126,3 +126,9 @@ Check our **Tryit JsSIP** online demo:
 ## License
 
 JsSIP is released under the [MIT license](http://jssip.net/license).
+
+
+
+# Change log
+## 2016-09-14
+合并 v2.0.3 版本到当前仓库
